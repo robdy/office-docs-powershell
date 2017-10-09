@@ -187,7 +187,7 @@ After a failed connection attempt, specifies the amount of time Skype for Busine
 The AutoDiscoveryRetryInterval can be set to value between 1 second and 60 minutes (1 hour), inclusive.
 
 When specifying the AutoDiscoveryRetryInterval you must use the format hours:minutes:seconds.
-For example, to set the interval to 25 minutes use this syntax: `- AutoDiscoveryRetryInterval 00:25:00`
+For example, to set the interval to 25 minutes use this syntax: `-AutoDiscoveryRetryInterval 00:25:00`
 
 
 
@@ -231,7 +231,7 @@ Specifies the amount of time, in seconds, that Skype for Business waits before r
 
 For example, to set the CalendarStatePublicationInterval to 10 minutes (600 seconds) use this syntax:
 
-`- CalendarStatePublicationInterval 600`
+`-CalendarStatePublicationInterval 600`
 
 
 
